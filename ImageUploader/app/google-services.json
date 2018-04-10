@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "756479998698",
+    "firebase_url": "https://imageuploader-b0afc.firebaseio.com",
+    "project_id": "imageuploader-b0afc",
+    "storage_bucket": "imageuploader-b0afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756479998698:android:b22e9241792f8ec3",
+        "android_client_info": {
+          "package_name": "com.chalat.imageuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756479998698-jrhfrn6m9iqg8o5gljai5dth6td4juo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chalat.imageuploader",
+            "certificate_hash": "cebed7e27ad3d2e52688bf19c967c59d2e1b5003"
+          }
+        },
+        {
+          "client_id": "756479998698-s9jpjl1mc76uh3r8hlqkr75d9csbnj2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFh0ForENqRjzfPe36AfY8pszotxxVc50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756479998698-s9jpjl1mc76uh3r8hlqkr75d9csbnj2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
